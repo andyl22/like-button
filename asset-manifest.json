@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/like-button/static/js/main.e475c1a3.js",
+    "main.js": "/like-button/static/js/main.70c086ef.js",
     "index.html": "/like-button/index.html",
-    "main.e475c1a3.js.map": "/like-button/static/js/main.e475c1a3.js.map"
+    "main.70c086ef.js.map": "/like-button/static/js/main.70c086ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.e475c1a3.js"
+    "static/js/main.70c086ef.js"
   ]
 }
